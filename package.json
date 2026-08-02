@@ -52,7 +52,8 @@
     "yargs-parser": "^21.1.1",
     "yt-search": "2.13.1",
      "imagekit": "latest",
-     "extract-zip": "latest"
+     "extract-zip": "latest",
+     "qc": "latest"
   },
   "engines": {
     "node": ">=18.0.0"
